@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class ContaTerminal {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
         int numero = 0;
         String agencia = null;
         String nome = null;
